@@ -1,0 +1,9 @@
+The space above navbar was from heading, set the overflow to auto to hide the white gap above
+
+Aligning the navigation to one line by usign flexbox flexbox container. 
+
+flex box
+flex-direction to column will set as column 
+alignment justify content to center moves to center align going vertical center
+align-items: center  row main across ---->
+justify-content ---main
